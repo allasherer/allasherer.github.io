@@ -98,7 +98,7 @@ function square1() {
 }
 
 function InFix() {
-    if((sx+w)>(tx+4)) {
+    if((sx+w)>(tx+5)) {
         u1 = 0
     }
 }
