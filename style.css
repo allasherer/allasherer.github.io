@@ -1,0 +1,22 @@
+#can {
+    width: 1200px;
+    height: 600px;
+    background-color:burlywood;
+}
+
+#certain {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}
+
+.Bounce {
+    display: block;
+    float: right;
+    margin-top: 1px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+}
